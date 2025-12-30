@@ -1,0 +1,14 @@
+{
+  "name": "arif-babu-downloader",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "ARIF BABU",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nexo-aio-downloader": "^1.0.0"
+  }
+}
